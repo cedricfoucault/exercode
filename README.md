@@ -18,7 +18,7 @@ This is the itended workflow:
     
 3. You work on a solution. When you're done, you should put your answer in the file, below the line that says:
         
-        # --- INSERT YOUR SOLUTION BELOW ---
+        # --- INSERT YOUR CODE BELOW ---
 
 4. Commit and push your solution on GitHub.
 5. Open a pull request.
